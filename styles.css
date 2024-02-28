@@ -1,4 +1,11 @@
 /* Copy of class for CSS styling. */
+.head {
+    position: fixed;
+    width: 100%;
+    padding: 10px;
+    background-color: lightblue;
+}
+
 
 .fa {
     padding: 20px;
