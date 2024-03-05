@@ -6,15 +6,43 @@
     background-color: lightblue;
 }
 
+.center{
+  /* text-align: center; */
+  /* border: 2px solid; */
+  margin: auto;
+  width: 100%;
+  padding: 0px;
+}
+.favi{
+  padding: 0px;
+  font-size: 30px;
+  width: 20px;
+  text-decoration: none;
+  border: 2px solid grey;
+  /*margin: 5px 2px;*/
+  margin: auto; 
+  border-radius: 100%; /*changed from 50%*/
+}
+
+.Polk{
+  padding: 20px;
+  font-size: 30px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  margin: auto; 
+  border-radius: 80%;
+}
 
 .fa {
-    padding: 20px;
+    padding: 15px;
     font-size: 30px;
-    width: 60px;
+    width: 30px;
     text-align: center;
     text-decoration: none;
-    /* margin: 5px 2px*/
-    margin: auto; 
+    margin: 5px 2px;
+    /* margin: auto;  */
     border-radius: 50%;
   }
   
