@@ -6,6 +6,19 @@
     background-color: lightblue;
 }
 
+.title{
+  text-align: center;
+  border: 10px solid black;
+  padding: 5px;
+  justify-content: center;
+  margin: 15px;
+}
+
+.navlinks{
+  text-align: center;
+  justify-content: center;
+  margin: 10px;
+}
 .center{
   /* text-align: center; */
   /* border: 2px solid; */
@@ -25,12 +38,12 @@
 }
 
 .Polk{
-  padding: 20px;
-  font-size: 30px;
-  width: 40px;
-  text-align: center;
+  align-items: center;
+  float: left;
+  padding: 0px;
+  width: 80px;
+  text-align: right;
   text-decoration: none;
-  margin: 5px 2px;
   margin: auto; 
   border-radius: 80%;
 }
