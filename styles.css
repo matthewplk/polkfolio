@@ -6,46 +6,82 @@
     background-color: lightblue;
 }
 
-.title{
-  text-align: center;
+.topbox{
+  justify-content: right;
   border: 10px solid black;
   padding: 5px;
-  justify-content: center;
-  margin: 15px;
+  margin: 0px;
 }
 
-.navlinks{
+.polkfolio{
+  text-align: center;
+  /* justify-content: center; */
+}
+
+.socials{
+  position: relative;
+  bottom: 0px; 
+  display: flex; 
+  justify-content: center;
+}
+.ALLnavlinks{
   text-align: center;
   justify-content: center;
   margin: 10px;
 }
+
+:link {
+  background-color: #434ace;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+h2 {
+  color: black;
+  background-color: #10100f;
+}
+/* :link, :visited {
+  background-color: #43456a;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+} */
+
+a:hover, a:active {
+  opacity: 0.7;
+  /* background-color: rgb(135, 13, 192); */
+}
+
 .center{
-  /* text-align: center; */
-  /* border: 2px solid; */
   margin: auto;
   width: 100%;
   padding: 0px;
 }
 .favi{
+  float: left;
   padding: 0px;
   font-size: 30px;
   width: 20px;
   text-decoration: none;
-  border: 2px solid grey;
+  /* border: 2px solid grey; */
   /*margin: 5px 2px;*/
   margin: auto; 
   border-radius: 100%; /*changed from 50%*/
 }
 
 .Polk{
-  align-items: center;
   float: left;
   padding: 0px;
-  width: 80px;
-  text-align: right;
-  text-decoration: none;
-  margin: auto; 
-  border-radius: 80%;
+  width: 100px;
+  margin-right: 10px;
+  /* border-radius: 80%; */
+  position: relative;
+  border: 5px solid black;
 }
 
 .fa {
