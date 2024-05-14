@@ -1,6 +1,12 @@
-#polkfolio.com
+<em>Polkfolio.com</em>
 
-Personal Project Website 2024, hosted on Github pages. Configured DNS from GoDaddy.com for domain. CONTAINS: Linked-in, mobile #, email.
-Researched SEO and implemented common practices with metadata and keywords. Indexed on Google Search Console.
+v.1.0.0
+
+Portolio website is hosted on Github pages. DNS configured from GoDaddy.com registry.
+
+Indexed within Google Search Console, building sitemap.txt and robots.txt.
+I have implemented SEO methods to get top search results.
 
 Static Website will be built in Javascript, HTML, CSS as of 2/21/2024.
+
+Planning on adding AngularJS.
