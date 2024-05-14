@@ -31,17 +31,22 @@
 }
 
 :link {
-  background-color: #434ace;
+  background-color: #c5c6e0;
   color: white;
   padding: 14px 25px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  border-radius: 25px;
+  padding: 20px;
+  width: 125px;
+  height: 30px;
 }
 
 h2 {
-  color: black;
-  background-color: #10100f;
+  /* color: black;
+  background-color: #10100f; */
+  justify-content: center;
 }
 /* :link, :visited {
   background-color: #43456a;
@@ -59,8 +64,14 @@ a:hover, a:active {
 
 .center{
   margin: auto;
-  width: 100%;
+  /* width: 100%; */
   padding: 0px;
+}
+
+.IMG{
+  margin: 10px;
+  width: 350px;
+  float: top;
 }
 .favi{
   float: left;
