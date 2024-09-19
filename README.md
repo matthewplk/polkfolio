@@ -8,5 +8,4 @@ Indexed within Google Search Console, building sitemap.txt and robots.txt.
 I have implemented SEO methods to get top search results.
 
 Static Website will be built in Javascript, HTML, CSS as of 2/21/2024.
-
-Planning on adding AngularJS.
+Planning to integrate BootStrap 5.3 and Angular 18.0 soon.
